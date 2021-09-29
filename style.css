@@ -1,3 +1,30 @@
+*{
+    margin: 0;
+}
+
 html{
     background-color: rebeccapurple;
 }
+.para{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+.box{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.box2{
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    border: 2px red;
+}
+.box3{
+    background-color: green;
+    height: 250px;
+    width: 600px;
+    border-radius: 6px;
+}
+
